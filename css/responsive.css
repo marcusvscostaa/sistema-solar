@@ -41,7 +41,7 @@
         
     }
     .container{
-        min-height: 70vh;
+        min-height: 100vh;
     }
     nav{
         display: none;
