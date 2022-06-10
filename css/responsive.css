@@ -21,6 +21,17 @@
     }
 }
 @media(max-width: 630px){
+    #tituloLogo{
+        color: white;
+        font-size: 1.5rem;
+    }
+    #presentation h1{        
+        font-size: 40px;       
+    }
+    #tituloPlaneta{
+        font-size: 3.5rem;
+        
+    }
     nav{
         display: none;
     }
